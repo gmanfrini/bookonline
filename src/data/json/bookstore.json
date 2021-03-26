@@ -5,7 +5,12 @@
         "isbn13": "9781119490463",
         "price": "$23.82",
         "image": "https://itbook.store/img/books/9781119490463.png",
-        "url": "https://itbook.store/books/9781119490463"
+        "url": "https://itbook.store/books/9781119490463",
+        "authors": [
+            "pippo",
+            "pluto",
+            "paperino"
+        ]
     },
     {
         "title": "Do more with SOA Integration: Best of Packt",
