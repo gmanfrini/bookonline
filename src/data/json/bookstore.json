@@ -6,20 +6,6 @@
         "price": "$23.82",
         "image": "https://itbook.store/img/books/9781119490463.png",
         "url": "https://itbook.store/books/9781119490463",
-        "authors": [
-            {
-                "name": "pippo",
-                "born": "rome"
-            },
-            {
-                "name": "pluto",
-                "born": "milan"
-            },
-            {
-                "name": "paperino",
-                "born": "genoa"
-            },
-        ]
     },
     {
         "title": "Do more with SOA Integration: Best of Packt",
