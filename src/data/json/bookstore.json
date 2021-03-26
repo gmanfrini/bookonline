@@ -7,9 +7,18 @@
         "image": "https://itbook.store/img/books/9781119490463.png",
         "url": "https://itbook.store/books/9781119490463",
         "authors": [
-            "pippo",
-            "pluto",
-            "paperino"
+            {
+                "name": "pippo",
+                "born": "rome"
+            },
+            {
+                "name": "pluto",
+                "born": "milan"
+            },
+            {
+                "name": "paperino",
+                "born": "genoa"
+            },
         ]
     },
     {
