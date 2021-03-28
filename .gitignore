@@ -66,6 +66,9 @@ public
 *.py
 *.pyc
 
+# Mie cartelle di servizio
+htmlgrab
+
 # Yarn
 yarn-error.log
 .pnp/
