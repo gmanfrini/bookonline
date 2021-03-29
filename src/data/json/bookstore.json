@@ -52,7 +52,8 @@
             "security",
             "software",
             "ubuntu"
-        ]
+        ],
+        "img": "../../img/9781119490463.png"
     },
     {
         "title": "do more with soa integration: best of packt",
@@ -95,7 +96,8 @@
         "categories": [
             "business",
             "soa"
-        ]
+        ],
+        "img": "../../img/9781849685726.png"
     },
     {
         "title": "fundamentals of c++ programming",
@@ -128,7 +130,8 @@
             "java",
             "programming",
             "python"
-        ]
+        ],
+        "img": "../../img/1001590483252.png"
     },
     {
         "title": "fundamentals of python programming",
@@ -161,7 +164,8 @@
             "java",
             "programming",
             "python"
-        ]
+        ],
+        "img": "../../img/1001590485785.png"
     },
     {
         "title": "the little go book",
@@ -191,7 +195,8 @@
             "google",
             "ide",
             "programming"
-        ]
+        ],
+        "img": "../../img/1001592396172.png"
     },
     {
         "title": "the coder's apprentice",
@@ -220,7 +225,8 @@
         "categories": [
             "programming",
             "python"
-        ]
+        ],
+        "img": "../../img/1001606308037.png"
     },
     {
         "title": "a practical introduction to python programming",
@@ -252,7 +258,8 @@
             "programming",
             "python",
             "software"
-        ]
+        ],
+        "img": "../../img/1001616146013.png"
     },
     {
         "title": "introduction to design patterns in c++ with qt, 2/e",
@@ -311,7 +318,8 @@
             "microsoft",
             "patterns",
             "programming"
-        ]
+        ],
+        "img": "../../img/9780132826457.png"
     },
     {
         "title": "essential c# 6.0, 5th edition",
@@ -365,7 +373,8 @@
             "ide",
             "microsoft",
             "patterns"
-        ]
+        ],
+        "img": "../../img/9780134141046.png"
     },
     {
         "title": "the pragmatic programmer, 20th anniversary edition",
@@ -418,7 +427,8 @@
             "security",
             "software",
             "testing"
-        ]
+        ],
+        "img": "../../img/9780135957059.png"
     },
     {
         "title": "history of programming languages",
@@ -458,7 +468,8 @@
             "design",
             "microsoft-word",
             "programming"
-        ]
+        ],
+        "img": "../../img/9780201895025.png"
     },
     {
         "title": "algorithms, 4th edition",
@@ -519,7 +530,8 @@
             "java",
             "microsoft-access",
             "programming"
-        ]
+        ],
+        "img": "../../img/9780321573513.png"
     },
     {
         "title": "the developer's guide to social programming",
@@ -573,7 +585,8 @@
             "network",
             "programming",
             "twitter"
-        ]
+        ],
+        "img": "../../img/9780321680778.png"
     },
     {
         "title": "c++ primer, 5th edition",
@@ -634,7 +647,8 @@
             "design",
             "programming",
             "wi-fi"
-        ]
+        ],
+        "img": "../../img/9780321714114.png"
     },
     {
         "title": "executable specifications with scrum",
@@ -687,7 +701,8 @@
             "design",
             "project",
             "software"
-        ]
+        ],
+        "img": "../../img/9780321784131.png"
     },
     {
         "title": "a game design vocabulary",
@@ -744,7 +759,8 @@
             "design",
             "framework",
             "games-development"
-        ]
+        ],
+        "img": "../../img/9780321886927.png"
     },
     {
         "title": "learning core data for ios",
@@ -794,7 +810,8 @@
             "patterns",
             "project",
             "xcode"
-        ]
+        ],
+        "img": "../../img/9780321905765.png"
     },
     {
         "title": "peopleware, 3rd edition",
@@ -854,7 +871,8 @@
             "project",
             "software",
             "wi-fi"
-        ]
+        ],
+        "img": "../../img/9780321934116.png"
     },
     {
         "title": "podcasting bible",
@@ -895,7 +913,8 @@
             "basic",
             "business",
             "mac"
-        ]
+        ],
+        "img": "../../img/9780470043523.png"
     },
     {
         "title": "python",
@@ -934,7 +953,8 @@
         "categories": [
             "design",
             "python"
-        ]
+        ],
+        "img": "../../img/9780470259320.png"
     },
     {
         "title": "beginning programming with java for dummies, 3rd edition",
@@ -974,7 +994,8 @@
             "for-dummies",
             "java",
             "programming"
-        ]
+        ],
+        "img": "../../img/9780470371749.png"
     },
     {
         "title": "solidworks 2009 bible",
@@ -1010,7 +1031,8 @@
             "basic",
             "design",
             "software"
-        ]
+        ],
+        "img": "../../img/9780470480489.png"
     },
     {
         "title": "typepad for dummies",
@@ -1066,7 +1088,8 @@
             "design",
             "for-dummies",
             "seo"
-        ]
+        ],
+        "img": "../../img/9780470550946.png"
     },
     {
         "title": "c# 4, asp.net 4, and wpf, with visual studio 2010 jump start",
@@ -1102,7 +1125,8 @@
             "mvc",
             "visual-studio",
             "wpf"
-        ]
+        ],
+        "img": "../../img/9780470770344.png"
     },
     {
         "title": "unix for oracle dbas pocket reference",
@@ -1166,7 +1190,8 @@
             "oracle",
             "server",
             "windows"
-        ]
+        ],
+        "img": "../../img/9780596000660.png"
     },
     {
         "title": "oracle dba checklists pocket reference",
@@ -1226,7 +1251,8 @@
             "software",
             "testing",
             "windows"
-        ]
+        ],
+        "img": "../../img/9780596001223.png"
     },
     {
         "title": "perl and xml",
@@ -1287,7 +1313,8 @@
             "soa",
             "soap",
             "xml"
-        ]
+        ],
+        "img": "../../img/9780596002053.png"
     },
     {
         "title": "ruby in a nutshell",
@@ -1339,7 +1366,8 @@
             "media",
             "nutshell",
             "ruby"
-        ]
+        ],
+        "img": "../../img/9780596002145.png"
     },
     {
         "title": "understanding linux network internals",
@@ -1400,7 +1428,8 @@
             "linux",
             "media",
             "network"
-        ]
+        ],
+        "img": "../../img/9780596002558.png"
     },
     {
         "title": "c++ in a nutshell",
@@ -1457,7 +1486,8 @@
             "c++",
             "media",
             "nutshell"
-        ]
+        ],
+        "img": "../../img/9780596002985.png"
     },
     {
         "title": "actionscript for flash mx: the definitive guide, 2nd edition",
@@ -1487,7 +1517,8 @@
             "actionscript",
             "flash",
             "media"
-        ]
+        ],
+        "img": "../../img/9780596003968.png"
     },
     {
         "title": "c++ pocket reference",
@@ -1544,7 +1575,8 @@
             "c++",
             "media",
             "programming"
-        ]
+        ],
+        "img": "../../img/9780596004965.png"
     },
     {
         "title": "running linux, 5th edition",
@@ -1609,7 +1641,8 @@
             "network",
             "server",
             "software"
-        ]
+        ],
+        "img": "../../img/9780596007607.png"
     },
     {
         "title": "head first html with css & xhtml",
@@ -1655,7 +1688,8 @@
             "html",
             "media",
             "mobile"
-        ]
+        ],
+        "img": "../../img/9780596101978.png"
     },
     {
         "title": "complete web monitoring",
@@ -1712,7 +1746,8 @@
             "asp",
             "media",
             "software"
-        ]
+        ],
+        "img": "../../img/9780596155131.png"
     },
     {
         "title": "head first html and css, 2nd edition",
@@ -1774,7 +1809,8 @@
             "html",
             "media",
             "mobile"
-        ]
+        ],
+        "img": "../../img/9780596159900.png"
     },
     {
         "title": "learning php & mysql, 2nd edition",
@@ -1817,7 +1853,8 @@
             "mysql",
             "php",
             "programming"
-        ]
+        ],
+        "img": "../../img/9780596514013.png"
     },
     {
         "title": "learning flex 3",
@@ -1874,7 +1911,8 @@
             "flex",
             "media",
             "yahoo"
-        ]
+        ],
+        "img": "../../img/9780596517328.png"
     },
     {
         "title": "the art of application performance testing",
@@ -1929,7 +1967,8 @@
             "network",
             "scala",
             "testing"
-        ]
+        ],
+        "img": "../../img/9780596520663.png"
     },
     {
         "title": "head first networking",
@@ -1987,7 +2026,8 @@
             "media",
             "microsoft-office",
             "network"
-        ]
+        ],
+        "img": "../../img/9780596521554.png"
     },
     {
         "title": "ubuntu hacks",
@@ -2047,7 +2087,8 @@
             "server",
             "tuning",
             "ubuntu"
-        ]
+        ],
+        "img": "../../img/9780596527204.png"
     },
     {
         "title": "iphoto 6: the missing manual, 5th edition",
@@ -2096,7 +2137,8 @@
             "mac",
             "media",
             "software"
-        ]
+        ],
+        "img": "../../img/9780596527259.png"
     },
     {
         "title": "the art of agile development",
@@ -2154,7 +2196,8 @@
             "programming",
             "project",
             "software"
-        ]
+        ],
+        "img": "../../img/9780596527679.png"
     },
     {
         "title": "mastering regular expressions, 3rd edition",
@@ -2223,7 +2266,8 @@
             "regular-expressions",
             "ruby",
             "vb"
-        ]
+        ],
+        "img": "../../img/9780596528126.png"
     },
     {
         "title": "learning flex 4",
@@ -2284,7 +2328,8 @@
             "media",
             "programming",
             "server"
-        ]
+        ],
+        "img": "../../img/9780596805630.png"
     },
     {
         "title": "head first wordpress",
@@ -2342,7 +2387,8 @@
             "media",
             "microsoft-word",
             "wordpress"
-        ]
+        ],
+        "img": "../../img/9780596806286.png"
     },
     {
         "title": "real world instrumentation with python",
@@ -2399,7 +2445,8 @@
             "media",
             "python",
             "software"
-        ]
+        ],
+        "img": "../../img/9780596809560.png"
     },
     {
         "title": "developing secure applications with visual basic",
@@ -2449,7 +2496,8 @@
             "security",
             "visual-basic",
             "windows"
-        ]
+        ],
+        "img": "../../img/9780672318368.png"
     },
     {
         "title": "sams teach yourself the twitter api in 24 hours",
@@ -2501,7 +2549,8 @@
             "mobile",
             "sams-teach-yourself",
             "twitter"
-        ]
+        ],
+        "img": "../../img/9780672331107.png"
     },
     {
         "title": "sams teach yourself visual basic 2010 in 24 hours",
@@ -2552,7 +2601,8 @@
             "sams-teach-yourself",
             "vb",
             "visual-basic"
-        ]
+        ],
+        "img": "../../img/9780672331138.png"
     },
     {
         "title": "sams teach yourself iphone application development in 24 hours, 2nd edition",
@@ -2592,7 +2642,8 @@
             "iphone",
             "mobile",
             "sams-teach-yourself"
-        ]
+        ],
+        "img": "../../img/9780672332203.png"
     },
     {
         "title": "sams teach yourself asp.net 4 in 24 hours",
@@ -2646,7 +2697,8 @@
             "sams-teach-yourself",
             "server",
             "sql"
-        ]
+        ],
+        "img": "../../img/9780672333057.png"
     },
     {
         "title": "sams teach yourself html5 in 10 minutes, 5th edition",
@@ -2695,7 +2747,8 @@
             "html",
             "html5",
             "sams-teach-yourself"
-        ]
+        ],
+        "img": "../../img/9780672333330.png"
     },
     {
         "title": "sams teach yourself html5 mobile application development in 24 hours",
@@ -2748,7 +2801,8 @@
             "media",
             "mobile",
             "sams-teach-yourself"
-        ]
+        ],
+        "img": "../../img/9780672334405.png"
     },
     {
         "title": "sams teach yourself microsoft dynamics crm 2011 in 24 hours",
@@ -2798,7 +2852,8 @@
             "project",
             "sams-teach-yourself",
             "sharepoint"
-        ]
+        ],
+        "img": "../../img/9780672335372.png"
     },
     {
         "title": "sams teach yourself sql in 24 hours, 5th edition",
@@ -2847,7 +2902,8 @@
             "security",
             "server",
             "sql"
-        ]
+        ],
+        "img": "../../img/9780672335419.png"
     },
     {
         "title": "sams teach yourself sap in 24 hours, 4th edition",
@@ -2899,7 +2955,8 @@
             "sams-teach-yourself",
             "sap",
             "software"
-        ]
+        ],
+        "img": "../../img/9780672335426.png"
     },
     {
         "title": "sams teach yourself windows phone 7 game programming in 24 hours",
@@ -2952,7 +3009,8 @@
             "programming",
             "sams-teach-yourself",
             "windows"
-        ]
+        ],
+        "img": "../../img/9780672335549.png"
     },
     {
         "title": "sams teach yourself ios 5 application development in 24 hours, 3rd edition",
@@ -2993,7 +3051,8 @@
             "ipad",
             "iphone",
             "sams-teach-yourself"
-        ]
+        ],
+        "img": "../../img/9780672335761.png"
     },
     {
         "title": "fluent visual basic",
@@ -3043,7 +3102,8 @@
             "design",
             "framework",
             "visual-basic"
-        ]
+        ],
+        "img": "../../img/9780672335808.png"
     },
     {
         "title": "sams teach yourself microsoft expression web 4 in 24 hours, 2nd edition",
@@ -3108,7 +3168,8 @@
             "jquery",
             "microsoft",
             "sams-teach-yourself"
-        ]
+        ],
+        "img": "../../img/9780672335907.png"
     },
     {
         "title": "sams teach yourself core data for mac and ios in 24 hours, 2nd edition",
@@ -3158,7 +3219,8 @@
             "ios",
             "mac",
             "sams-teach-yourself"
-        ]
+        ],
+        "img": "../../img/9780672336195.png"
     },
     {
         "title": "sams teach yourself asp.net core in 24 hours",
@@ -3227,7 +3289,8 @@
             "sams-teach-yourself",
             "security",
             "windows"
-        ]
+        ],
+        "img": "../../img/9780672337666.png"
     },
     {
         "title": "sams teach yourself microsoft sql server t-sql in 10 minutes, 2nd edition",
@@ -3283,7 +3346,8 @@
             "server",
             "sql",
             "xml"
-        ]
+        ],
+        "img": "../../img/9780672337925.png"
     },
     {
         "title": "sams teach yourself go in 24 hours",
@@ -3348,7 +3412,8 @@
             "server",
             "software",
             "testing"
-        ]
+        ],
+        "img": "../../img/9780672338038.png"
     },
     {
         "title": "sams teach yourself apache spark in 24 hours",
@@ -3411,7 +3476,8 @@
             "project",
             "sams-teach-yourself",
             "scala"
-        ]
+        ],
+        "img": "../../img/9780672338519.png"
     },
     {
         "title": "windows sysinternals administrator's reference",
@@ -3467,7 +3533,8 @@
             "microsoft",
             "security",
             "windows"
-        ]
+        ],
+        "img": "../../img/9780735656727.png"
     },
     {
         "title": "start here! fundamentals of microsoft .net programming",
@@ -3512,7 +3579,8 @@
             "basic",
             "microsoft",
             "programming"
-        ]
+        ],
+        "img": "../../img/9780735661684.png"
     },
     {
         "title": "microsoft outlook 2013 plain & simple",
@@ -3563,7 +3631,8 @@
             "microsoft",
             "network",
             "outlook"
-        ]
+        ],
+        "img": "../../img/9780735669352.png"
     },
     {
         "title": "microsoft word 2013 plain & simple",
@@ -3610,7 +3679,8 @@
         "categories": [
             "microsoft",
             "microsoft-word"
-        ]
+        ],
+        "img": "../../img/9780735669383.png"
     },
     {
         "title": "microsoft access 2013 plain & simple",
@@ -3666,7 +3736,8 @@
             "database",
             "microsoft",
             "microsoft-access"
-        ]
+        ],
+        "img": "../../img/9780735669444.png"
     },
     {
         "title": "programming windows, 6th edition",
@@ -3714,7 +3785,8 @@
             "microsoft",
             "programming",
             "windows"
-        ]
+        ],
+        "img": "../../img/9780735671768.png"
     },
     {
         "title": "professional c++",
@@ -3758,7 +3830,8 @@
             "patterns",
             "programming",
             "testing"
-        ]
+        ],
+        "img": "../../img/9780764574849.png"
     },
     {
         "title": "adobe premiere elements for dummies",
@@ -3794,7 +3867,8 @@
             "for-dummies",
             "project",
             "software"
-        ]
+        ],
+        "img": "../../img/9780764588365.png"
     },
     {
         "title": "html 4 for dummies, 5th edition",
@@ -3835,7 +3909,8 @@
             "design",
             "for-dummies",
             "html"
-        ]
+        ],
+        "img": "../../img/9780764589171.png"
     },
     {
         "title": "pragmatic version control using cvs",
@@ -3873,7 +3948,8 @@
         "description": "pragmatic version control is available in two different flavors: using cvs and using subversion. click on the links to each book for more details, code from the books, errata, reviews, ordering information, sample chapters, and a free printable summary card.",
         "categories": [
             "subversion"
-        ]
+        ],
+        "img": "../../img/9780974514000.png"
     },
     {
         "title": "gis for web developers",
@@ -3914,7 +3990,8 @@
             "google",
             "microsoft-access",
             "programming"
-        ]
+        ],
+        "img": "../../img/9780974514093.png"
     },
     {
         "title": "simply javascript",
@@ -3970,7 +4047,8 @@
             "javascript",
             "microsoft-access",
             "programming"
-        ]
+        ],
+        "img": "../../img/9780980285802.png"
     },
     {
         "title": "build your own wicked wordpress themes",
@@ -4015,7 +4093,8 @@
             "framework",
             "microsoft-word",
             "wordpress"
-        ]
+        ],
+        "img": "../../img/9780980455298.png"
     },
     {
         "title": "the web designer's roadmap",
@@ -4069,7 +4148,8 @@
         "description": "the web designer's roadmap is a full-color book about the creative process and the underlying principles that govern that process.\n\r\nwhile other books cover the nuts 'n' bolts\u00e2\u009d of how to design the elements that make up websites, this book outlines how effective designers go about their work, illustrating the complete creative process from start to finish.\n\r\nas well as how-to content, the book draws on interviews with a host of well-known design gurus, including shaun inman, daniel burka, meagan fisher, donald norman and dan rubin.",
         "categories": [
             "design"
-        ]
+        ],
+        "img": "../../img/9780987247858.png"
     },
     {
         "title": "the art of software testing, 3rd edition",
@@ -4121,7 +4201,8 @@
             "project",
             "software",
             "testing"
-        ]
+        ],
+        "img": "../../img/9781118031964.png"
     },
     {
         "title": "iphone 4s all-in-one for dummies",
@@ -4162,7 +4243,8 @@
             "for-dummies",
             "iphone",
             "media"
-        ]
+        ],
+        "img": "../../img/9781118101193.png"
     },
     {
         "title": "practical database programming with visual basic.net, 2nd edition",
@@ -4217,7 +4299,8 @@
             "vb",
             "visual-basic",
             "visual-studio"
-        ]
+        ],
+        "img": "../../img/9781118162057.png"
     },
     {
         "title": "aperture 3 portable genius, 2nd edition",
@@ -4260,7 +4343,8 @@
         "categories": [
             "software",
             "tuning"
-        ]
+        ],
+        "img": "../../img/9781118274293.png"
     },
     {
         "title": "data structures and algorithms in python",
@@ -4309,7 +4393,8 @@
             "design",
             "java",
             "python"
-        ]
+        ],
+        "img": "../../img/9781118290279.png"
     },
     {
         "title": "css3 foundations",
@@ -4371,7 +4456,8 @@
             "design",
             "html",
             "microsoft-word"
-        ]
+        ],
+        "img": "../../img/9781118356548.png"
     },
     {
         "title": "html5 foundations",
@@ -4432,7 +4518,8 @@
             "html",
             "html5",
             "microsoft-word"
-        ]
+        ],
+        "img": "../../img/9781118356555.png"
     },
     {
         "title": "ivor horton's beginning visual c++ 2012",
@@ -4488,7 +4575,8 @@
             "c++",
             "dom",
             "programming"
-        ]
+        ],
+        "img": "../../img/9781118368084.png"
     },
     {
         "title": "javafx for dummies",
@@ -4549,7 +4637,8 @@
             "microsoft-access",
             "programming",
             "software"
-        ]
+        ],
+        "img": "../../img/9781118385340.png"
     },
     {
         "title": "excel 2013 bible",
@@ -4608,7 +4697,8 @@
         "categories": [
             "microsoft",
             "microsoft-excel"
-        ]
+        ],
+        "img": "../../img/9781118490365.png"
     },
     {
         "title": "office 2013 for dummies",
@@ -4669,7 +4759,8 @@
             "microsoft-excel",
             "microsoft-office",
             "microsoft-word"
-        ]
+        ],
+        "img": "../../img/9781118497159.png"
     },
     {
         "title": "professional heroku programming",
@@ -4725,7 +4816,8 @@
             "cloud",
             "facebook",
             "programming"
-        ]
+        ],
+        "img": "../../img/9781118508992.png"
     },
     {
         "title": "the data warehouse toolkit, 3rd edition",
@@ -4780,7 +4872,8 @@
         "categories": [
             "business",
             "patterns"
-        ]
+        ],
+        "img": "../../img/9781118530801.png"
     },
     {
         "title": "android tablets for dummies",
@@ -4822,7 +4915,8 @@
             "for-dummies",
             "microsoft-access",
             "network"
-        ]
+        ],
+        "img": "../../img/9781118543191.png"
     },
     {
         "title": "101 excel 2013 tips, tricks and timesavers",
@@ -4881,7 +4975,8 @@
         "categories": [
             "microsoft-excel",
             "testing"
-        ]
+        ],
+        "img": "../../img/9781118642184.png"
     },
     {
         "title": "professional asp.net mvc 5",
@@ -4946,7 +5041,8 @@
             "mobile",
             "mvc",
             "optimization"
-        ]
+        ],
+        "img": "../../img/9781118794753.png"
     },
     {
         "title": "beginning ios programming",
@@ -4988,7 +5084,8 @@
             "iphone",
             "objective-c",
             "programming"
-        ]
+        ],
+        "img": "../../img/9781118841471.png"
     },
     {
         "title": "professional java ee design patterns",
@@ -5040,7 +5137,8 @@
             "design",
             "java",
             "patterns"
-        ]
+        ],
+        "img": "../../img/9781118843413.png"
     },
     {
         "title": "c# 5.0 programmer's reference",
@@ -5099,7 +5197,8 @@
             "programming",
             "vb",
             "visual-studio"
-        ]
+        ],
+        "img": "../../img/9781118847282.png"
     },
     {
         "title": "professional c++, 3rd edition",
@@ -5148,7 +5247,8 @@
             "design",
             "programming",
             "software"
-        ]
+        ],
+        "img": "../../img/9781118858059.png"
     },
     {
         "title": "visual design solutions",
@@ -5200,7 +5300,8 @@
             "design",
             "graph",
             "ide"
-        ]
+        ],
+        "img": "../../img/9781118863565.png"
     },
     {
         "title": "android tablets for dummies, 2nd edition",
@@ -5241,7 +5342,8 @@
             "for-dummies",
             "media",
             "mobile"
-        ]
+        ],
+        "img": "../../img/9781118874011.png"
     },
     {
         "title": "excel data analysis for dummies, 2nd edition",
@@ -5283,7 +5385,8 @@
             "for-dummies",
             "microsoft-excel",
             "visualization"
-        ]
+        ],
+        "img": "../../img/9781118898093.png"
     },
     {
         "title": "ipad mini for dummies, 3rd edition",
@@ -5343,7 +5446,8 @@
             "ipad",
             "microsoft-access",
             "software"
-        ]
+        ],
+        "img": "../../img/9781118933527.png"
     },
     {
         "title": "adventures in minecraft",
@@ -5385,7 +5489,8 @@
         "description": "learn how to extend minecraft and create a new gaming experience, by exploring the magical world of minecraft programming. adventures in minecraft, like other books in the highly successful adventures series, is written especially for 11- to 15-year-olds. with this book you will learn new programming skills while having fun with minecraft!\n\r\nusing the programming skills you learn from this book, writing minecraft programs offers endless possibilities to create anything you can imagine.\n\r\nto make your journey that much easier, the adventures in minecraft companion website supplies you with a video for each adventure in the book, downloadable code files, helpful programming reference tables, a bonus adventure, and badges to collect for your minecraft accomplishments.",
         "categories": [
             "programming"
-        ]
+        ],
+        "img": "../../img/9781118946916.png"
     },
     {
         "title": "professional wordpress, 3rd edition",
@@ -5441,7 +5546,8 @@
             "microsoft-word",
             "project",
             "wordpress"
-        ]
+        ],
+        "img": "../../img/9781118987247.png"
     },
     {
         "title": "beaglebone for dummies",
@@ -5501,7 +5607,8 @@
             "project",
             "python",
             "software"
-        ]
+        ],
+        "img": "../../img/9781118992913.png"
     },
     {
         "title": "fire tablets for dummies",
@@ -5558,7 +5665,8 @@
             "app-store",
             "for-dummies",
             "microsoft-access"
-        ]
+        ],
+        "img": "../../img/9781119008255.png"
     },
     {
         "title": "salesforce service cloud for dummies",
@@ -5615,7 +5723,8 @@
             "cloud",
             "for-dummies",
             "software"
-        ]
+        ],
+        "img": "../../img/9781119010685.png"
     },
     {
         "title": "android tablets for dummies, 3rd edition",
@@ -5656,7 +5765,8 @@
             "for-dummies",
             "media",
             "mobile"
-        ]
+        ],
+        "img": "../../img/9781119126027.png"
     },
     {
         "title": "adventures in raspberry pi, 3rd edition",
@@ -5716,7 +5826,8 @@
             "programming",
             "project",
             "raspberry-pi"
-        ]
+        ],
+        "img": "../../img/9781119269069.png"
     },
     {
         "title": "adobe creative cloud all-in-one for dummies, 2nd edition",
@@ -5769,7 +5880,8 @@
             "graph",
             "indesign",
             "photoshop"
-        ]
+        ],
+        "img": "../../img/9781119420408.png"
     },
     {
         "title": "artificial intelligence for dummies",
@@ -5815,7 +5927,8 @@
         "description": "the term \"artificial intelligence\" has been around since the 1950s, but a lot has changed since then. today, ai is referenced in the news, books, movies, and tv shows, and the exact definition is often misinterpreted. artificial intelligence for dummies provides a clear introduction to ai and how it's being used today.\n\r\ninside, you'll get a clear overview of the technology, the common misconceptions surrounding it, and a fascinating look at its applications in everything from self-driving cars and drones to its contributions in the medical field.\n\r\nlearn about what ai has contributed to society; explore uses for ai in computer applications; discover the limits of what ai can do; find out about the history of ai.",
         "categories": [
             "for-dummies"
-        ]
+        ],
+        "img": "../../img/9781119467656.png"
     },
     {
         "title": "php, mysql & javascript all-in-one for dummies",
@@ -5881,7 +5994,8 @@
             "php",
             "programming",
             "project"
-        ]
+        ],
+        "img": "../../img/9781119468387.png"
     },
     {
         "title": "exploring beaglebone, 2nd edition",
@@ -5930,7 +6044,8 @@
             "programming",
             "project",
             "software"
-        ]
+        ],
+        "img": "../../img/9781119533160.png"
     },
     {
         "title": "architecting enterprise blockchain solutions",
@@ -5980,7 +6095,8 @@
             "business",
             "flex",
             "network"
-        ]
+        ],
+        "img": "../../img/9781119557692.png"
     },
     {
         "title": "graphic design school, 7th edition",
@@ -6032,7 +6148,8 @@
             "seo",
             "software",
             "testing"
-        ]
+        ],
+        "img": "../../img/9781119647119.png"
     },
     {
         "title": "pro linq",
@@ -6082,7 +6199,8 @@
             "project",
             "vb",
             "visual-studio"
-        ]
+        ],
+        "img": "../../img/9781430216445.png"
     },
     {
         "title": "beginning microsoft word 2010",
@@ -6131,7 +6249,8 @@
             "microsoft",
             "microsoft-word",
             "software"
-        ]
+        ],
+        "img": "../../img/9781430229520.png"
     },
     {
         "title": "beginning ubuntu linux, 5th edition",
@@ -6185,7 +6304,8 @@
             "microsoft-word",
             "ubuntu",
             "windows"
-        ]
+        ],
+        "img": "../../img/9781430230397.png"
     },
     {
         "title": "pro javascript with mootools",
@@ -6237,7 +6357,8 @@
             "java",
             "javascript",
             "programming"
-        ]
+        ],
+        "img": "../../img/9781430230540.png"
     },
     {
         "title": "oracle pl/sql recipes",
@@ -6286,7 +6407,8 @@
             "oracle",
             "programming",
             "sql"
-        ]
+        ],
+        "img": "../../img/9781430232070.png"
     },
     {
         "title": "pro java me apps",
@@ -6339,7 +6461,8 @@
             "phone-development",
             "server",
             "software"
-        ]
+        ],
+        "img": "../../img/9781430233275.png"
     },
     {
         "title": "taking your iphone 4s to the max",
@@ -6397,7 +6520,8 @@
             "mobile",
             "network",
             "phone-development"
-        ]
+        ],
+        "img": "../../img/9781430235811.png"
     },
     {
         "title": "learn os x lion, 2nd edition",
@@ -6447,7 +6571,8 @@
         "description": "you're smart and savvy, but you're also busy. this comprehensive guide to apple's latest version of os x, lion, gives you everything you need to know to live a happy, productive mac life. learn os x lion will have you up and connected right away. with a minimum of overhead and a maximum of useful information, you'll cover a lot of ground in the time it takes other books to get you plugged in.",
         "categories": [
             "mac"
-        ]
+        ],
+        "img": "../../img/9781430237624.png"
     },
     {
         "title": "pro sharepoint 2010 administration",
@@ -6492,7 +6617,8 @@
             "business",
             "microsoft",
             "sharepoint"
-        ]
+        ],
+        "img": "../../img/9781430237921.png"
     },
     {
         "title": "illustrated c# 2012, 4th edition",
@@ -6540,7 +6666,8 @@
             "c#",
             "microsoft-word",
             "programming"
-        ]
+        ],
+        "img": "../../img/9781430242789.png"
     },
     {
         "title": "winning lego mindstorms programming",
@@ -6588,7 +6715,8 @@
             "design",
             "lego",
             "programming"
-        ]
+        ],
+        "img": "../../img/9781430245360.png"
     },
     {
         "title": "how to create the next facebook",
@@ -6637,7 +6765,8 @@
             "facebook",
             "ide",
             "server"
-        ]
+        ],
+        "img": "../../img/9781430246473.png"
     },
     {
         "title": "pro sharepoint 2013 administration, 2nd edition",
@@ -6686,7 +6815,8 @@
             "business",
             "microsoft",
             "sharepoint"
-        ]
+        ],
+        "img": "../../img/9781430249412.png"
     },
     {
         "title": "expert android",
@@ -6738,7 +6868,8 @@
             "mac",
             "mobile",
             "opengl"
-        ]
+        ],
+        "img": "../../img/9781430249504.png"
     },
     {
         "title": "learn opengl es",
@@ -6794,7 +6925,8 @@
             "opengl",
             "programming",
             "sdk"
-        ]
+        ],
+        "img": "../../img/9781430250531.png"
     },
     {
         "title": "learn ios 7 app development",
@@ -6846,7 +6978,8 @@
             "iphone",
             "objective-c",
             "sdk"
-        ]
+        ],
+        "img": "../../img/9781430250623.png"
     },
     {
         "title": "learn android app development",
@@ -6897,7 +7030,8 @@
             "java",
             "patterns",
             "sdk"
-        ]
+        ],
+        "img": "../../img/9781430257462.png"
     },
     {
         "title": "troubleshooting oracle performance, 2nd edition",
@@ -6944,7 +7078,8 @@
         "categories": [
             "database",
             "oracle"
-        ]
+        ],
+        "img": "../../img/9781430257585.png"
     },
     {
         "title": "pro django, 2nd edition",
@@ -6993,7 +7128,8 @@
             "django",
             "framework",
             "python"
-        ]
+        ],
+        "img": "../../img/9781430258094.png"
     },
     {
         "title": "beginning android c++ game development",
@@ -7044,7 +7180,8 @@
             "design",
             "google",
             "programming"
-        ]
+        ],
+        "img": "../../img/9781430258308.png"
     },
     {
         "title": "pointers in c",
@@ -7090,7 +7227,8 @@
         "description": "pointers in c provides a resource for professionals and advanced students needing in-depth but  hands-on coverage of pointer basics and advanced features. the goal is to help programmers in wielding the full potential of pointers.\n\r\nin spite of its vast usage, understanding and proper usage of pointers remains a significant problem.  this book's aim is to first introduce the basic building blocks such as elaborate details about memory, the compilation process (parsing/preprocessing/assembler/object code generation), the runtime memory organization of an executable and virtual memory. these basic building blocks will help both beginners and advanced readers to grasp the notion of pointers very easily and clearly.",
         "categories": [
             "basic"
-        ]
+        ],
+        "img": "../../img/9781430259114.png"
     },
     {
         "title": "building the infrastructure for cloud security",
@@ -7133,7 +7271,8 @@
         "categories": [
             "cloud",
             "security"
-        ]
+        ],
+        "img": "../../img/9781430261452.png"
     },
     {
         "title": "learn java for android development, 3rd edition",
@@ -7187,7 +7326,8 @@
             "java",
             "mobile",
             "sdk"
-        ]
+        ],
+        "img": "../../img/9781430264545.png"
     },
     {
         "title": "pro css3 layout techniques",
@@ -7237,7 +7377,8 @@
             "design",
             "flex",
             "patterns"
-        ]
+        ],
+        "img": "../../img/9781430265023.png"
     },
     {
         "title": "learn unity3d programming with unityscript",
@@ -7291,7 +7432,8 @@
             "photoshop",
             "programming",
             "unity"
-        ]
+        ],
+        "img": "../../img/9781430265863.png"
     },
     {
         "title": "expert sql server 2008 development",
@@ -7341,7 +7483,8 @@
             "server",
             "sql",
             "testing"
-        ]
+        ],
+        "img": "../../img/9781430272137.png"
     },
     {
         "title": "learning perl, 6th edition",
@@ -7390,7 +7533,8 @@
             "hack",
             "media",
             "perl"
-        ]
+        ],
+        "img": "../../img/9781449303587.png"
     },
     {
         "title": "practical jira administration",
@@ -7453,7 +7597,8 @@
             "jira",
             "media",
             "software"
-        ]
+        ],
+        "img": "../../img/9781449305413.png"
     },
     {
         "title": "c# database basics",
@@ -7517,7 +7662,8 @@
             "vb",
             "vba",
             "visual-basic"
-        ]
+        ],
+        "img": "../../img/9781449309985.png"
     },
     {
         "title": "hadoop: the definitive guide, 3rd edition",
@@ -7552,7 +7698,8 @@
             "mapreduce",
             "media",
             "scala"
-        ]
+        ],
+        "img": "../../img/9781449311520.png"
     },
     {
         "title": "getting started with dwarf fortress",
@@ -7613,7 +7760,8 @@
             "games-development",
             "mac",
             "media"
-        ]
+        ],
+        "img": "../../img/9781449314941.png"
     },
     {
         "title": "programming android, 2nd edition",
@@ -7677,7 +7825,8 @@
             "mobile",
             "objective-c",
             "programming"
-        ]
+        ],
+        "img": "../../img/9781449316648.png"
     },
     {
         "title": "programming c# 5.0",
@@ -7742,7 +7891,8 @@
             "programming",
             "windows",
             "wpf"
-        ]
+        ],
+        "img": "../../img/9781449320416.png"
     },
     {
         "title": "windows powershell pocket reference, 2nd edition",
@@ -7804,7 +7954,8 @@
             "powershell",
             "shell",
             "windows"
-        ]
+        ],
+        "img": "../../img/9781449320966.png"
     },
     {
         "title": "real world ocaml",
@@ -7864,7 +8015,8 @@
             "design",
             "media",
             "programming"
-        ]
+        ],
+        "img": "../../img/9781449323912.png"
     },
     {
         "title": "getting started with rfid",
@@ -7920,7 +8072,8 @@
             "media",
             "microsoft-access",
             "project"
-        ]
+        ],
+        "img": "../../img/9781449324186.png"
     },
     {
         "title": "mapreduce design patterns",
@@ -7983,7 +8136,8 @@
             "mapreduce",
             "media",
             "patterns"
-        ]
+        ],
+        "img": "../../img/9781449327170.png"
     },
     {
         "title": "accessible epub 3",
@@ -8012,7 +8166,8 @@
         "categories": [
             "media",
             "microsoft-access"
-        ]
+        ],
+        "img": "../../img/9781449328030.png"
     },
     {
         "title": "epub 3 best practices",
@@ -8071,7 +8226,8 @@
         "categories": [
             "asp",
             "media"
-        ]
+        ],
+        "img": "../../img/9781449329143.png"
     },
     {
         "title": "you don't know js: scope & closures",
@@ -8123,7 +8279,8 @@
             "java",
             "javascript",
             "media"
-        ]
+        ],
+        "img": "../../img/9781449335588.png"
     },
     {
         "title": "building node applications with mongodb and backbone",
@@ -8193,7 +8350,8 @@
             "programming",
             "project",
             "scala"
-        ]
+        ],
+        "img": "../../img/9781449337391.png"
     },
     {
         "title": "designing evolvable web apis with asp.net",
@@ -8265,7 +8423,8 @@
             "node",
             "php",
             "ruby"
-        ]
+        ],
+        "img": "../../img/9781449337711.png"
     },
     {
         "title": "graph databases",
@@ -8308,7 +8467,8 @@
             "dom",
             "graph",
             "media"
-        ]
+        ],
+        "img": "../../img/9781449356262.png"
     },
     {
         "title": "restful java with jax-rs 2.0, 2nd edition",
@@ -8368,7 +8528,8 @@
             "design",
             "java",
             "media"
-        ]
+        ],
+        "img": "../../img/9781449361341.png"
     },
     {
         "title": "mobile design pattern gallery, 2nd edition",
@@ -8433,7 +8594,8 @@
             "patterns",
             "phone-development",
             "windows"
-        ]
+        ],
+        "img": "../../img/9781449363635.png"
     },
     {
         "title": "android cookbook",
@@ -8476,7 +8638,8 @@
         "categories": [
             "android",
             "media"
-        ]
+        ],
+        "img": "../../img/9781449388416.png"
     },
     {
         "title": "ibooks and eperiodicals on the ipad: the mini missing manual",
@@ -8513,7 +8676,8 @@
             "ipad",
             "media",
             "microsoft-word"
-        ]
+        ],
+        "img": "../../img/9781449394080.png"
     },
     {
         "title": "hacking secret ciphers with python",
@@ -8554,7 +8718,8 @@
             "hacking",
             "programming",
             "python"
-        ]
+        ],
+        "img": "../../img/9781482614374.png"
     },
     {
         "title": "modern x86 assembly language programming",
@@ -8608,7 +8773,8 @@
             "programming",
             "software",
             "windows"
-        ]
+        ],
+        "img": "../../img/9781484200650.png"
     },
     {
         "title": "sql server integration services design patterns, 2nd edition",
@@ -8659,7 +8825,8 @@
             "patterns",
             "server",
             "sql"
-        ]
+        ],
+        "img": "../../img/9781484200834.png"
     },
     {
         "title": "hibernate recipes, 2nd edition",
@@ -8711,7 +8878,8 @@
             "microsoft-access",
             "patterns",
             "spring"
-        ]
+        ],
+        "img": "../../img/9781484201282.png"
     },
     {
         "title": "beginning angularjs",
@@ -8767,7 +8935,8 @@
             "mvc",
             "patterns",
             "server"
-        ]
+        ],
+        "img": "../../img/9781484201619.png"
     },
     {
         "title": "beginning oracle database 12c administration, 2nd edition",
@@ -8815,7 +8984,8 @@
             "administration",
             "database",
             "oracle"
-        ]
+        ],
+        "img": "../../img/9781484201947.png"
     },
     {
         "title": "learn ios 8 app development, 2nd edition",
@@ -8869,7 +9039,8 @@
             "iphone",
             "patterns",
             "sdk"
-        ]
+        ],
+        "img": "../../img/9781484202098.png"
     },
     {
         "title": "financial modeling for business owners and entrepreneurs",
@@ -8917,7 +9088,8 @@
             "business",
             "microsoft-excel",
             "project"
-        ]
+        ],
+        "img": "../../img/9781484203712.png"
     },
     {
         "title": "beginning big data with power bi and excel 2013",
@@ -8975,7 +9147,8 @@
             "nosql",
             "project",
             "sql"
-        ]
+        ],
+        "img": "../../img/9781484205303.png"
     },
     {
         "title": "pro powershell for database developers",
@@ -9028,7 +9201,8 @@
             "sql",
             "training-kit",
             "windows"
-        ]
+        ],
+        "img": "../../img/9781484205426.png"
     },
     {
         "title": "sas programming and data visualization techniques",
@@ -9077,7 +9251,8 @@
             "ide",
             "programming",
             "visualization"
-        ]
+        ],
+        "img": "../../img/9781484205693.png"
     },
     {
         "title": "sap erp financial accounting and controlling",
@@ -9120,7 +9295,8 @@
         "categories": [
             "sap",
             "wi-fi"
-        ]
+        ],
+        "img": "../../img/9781484207178.png"
     },
     {
         "title": "pivotal certified professional spring developer exam",
@@ -9173,7 +9349,8 @@
             "programming",
             "security",
             "spring"
-        ]
+        ],
+        "img": "../../img/9781484208120.png"
     },
     {
         "title": "swift for absolute beginners",
@@ -9225,7 +9402,8 @@
             "microsoft-excel",
             "objective-c",
             "programming"
-        ]
+        ],
+        "img": "../../img/9781484208878.png"
     },
     {
         "title": "sudoku programming with c",
@@ -9272,7 +9450,8 @@
         "categories": [
             "patterns",
             "programming"
-        ]
+        ],
+        "img": "../../img/9781484209967.png"
     },
     {
         "title": "common lisp recipes",
@@ -9327,7 +9506,8 @@
             "optimization",
             "programming",
             "project"
-        ]
+        ],
+        "img": "../../img/9781484211779.png"
     },
     {
         "title": "swift 2 for absolute beginners, 2nd edition",
@@ -9372,7 +9552,8 @@
             "ios",
             "microsoft-excel",
             "programming"
-        ]
+        ],
+        "img": "../../img/9781484214893.png"
     },
     {
         "title": "developing for apple tv using tvos and swift",
@@ -9419,7 +9600,8 @@
         "categories": [
             "project",
             "sdk"
-        ]
+        ],
+        "img": "../../img/9781484217146.png"
     },
     {
         "title": "arduino music and audio projects",
@@ -9470,7 +9652,8 @@
             "project",
             "raspberry-pi",
             "software"
-        ]
+        ],
+        "img": "../../img/9781484217207.png"
     },
     {
         "title": "app development recipes for ios and watchos",
@@ -9518,7 +9701,8 @@
             "basic",
             "ios",
             "testing"
-        ]
+        ],
+        "img": "../../img/9781484218198.png"
     },
     {
         "title": "learn to program with python",
@@ -9562,7 +9746,8 @@
             "programming",
             "python",
             "software"
-        ]
+        ],
+        "img": "../../img/9781484218686.png"
     },
     {
         "title": "building arduino projects for the internet of things",
@@ -9612,7 +9797,8 @@
             "project",
             "software",
             "visualization"
-        ]
+        ],
+        "img": "../../img/9781484219393.png"
     },
     {
         "title": "mastering machine learning with python in six steps",
@@ -9667,7 +9853,8 @@
             "neural-networks",
             "programming",
             "python"
-        ]
+        ],
+        "img": "../../img/9781484228654.png"
     },
     {
         "title": "practical jsf in java ee 8",
@@ -9716,7 +9903,8 @@
             "project",
             "security",
             "websocket"
-        ]
+        ],
+        "img": "../../img/9781484230299.png"
     },
     {
         "title": "swift 4 for absolute beginners",
@@ -9766,7 +9954,8 @@
             "iphone",
             "microsoft-excel",
             "programming"
-        ]
+        ],
+        "img": "../../img/9781484230626.png"
     },
     {
         "title": "social media analytics strategy",
@@ -9818,7 +10007,8 @@
             "patterns",
             "project",
             "software"
-        ]
+        ],
+        "img": "../../img/9781484231012.png"
     },
     {
         "title": "php 7 zend certification study guide",
@@ -9866,7 +10056,8 @@
             "ide",
             "php",
             "programming"
-        ]
+        ],
+        "img": "../../img/9781484232453.png"
     },
     {
         "title": "enterprise cybersecurity study guide",
@@ -9914,7 +10105,8 @@
             "design",
             "framework",
             "ide"
-        ]
+        ],
+        "img": "../../img/9781484232576.png"
     },
     {
         "title": "propeller programming",
@@ -9956,7 +10148,8 @@
         "description": "learn to program the propeller in spin and c and how to map the propeller assembler language (pasm) from other high-level languages you might know.\n\r\nthe overall task you will pursue in the book is to implement a delta compression algorithm: first in spin, then in pasm, then in c. along the way, you'll review test driven development,  a powerful technique for validating code, and conclude with a chapter on hardware manipulations. the book's main goal is to help you extend the capabilities of the propeller processor by using the assembler language.\n\r\nuse a data compression/decompression application to introduce pasm to the reader; integrate c and pasm code; review hardware interactions (setting and reading pins).",
         "categories": [
             "programming"
-        ]
+        ],
+        "img": "../../img/9781484233535.png"
     },
     {
         "title": "defending iot infrastructures with the raspberry pi",
@@ -10009,7 +10202,8 @@
             "python",
             "raspberry-pi",
             "security"
-        ]
+        ],
+        "img": "../../img/9781484236994.png"
     },
     {
         "title": "developing 2d games with unity",
@@ -10066,7 +10260,8 @@
             "programming",
             "unity",
             "xbox"
-        ]
+        ],
+        "img": "../../img/9781484237717.png"
     },
     {
         "title": "ux fundamentals for non-ux professionals",
@@ -10114,7 +10309,8 @@
             "project",
             "security",
             "software"
-        ]
+        ],
+        "img": "../../img/9781484238103.png"
     },
     {
         "title": "ux optimization",
@@ -10161,7 +10357,8 @@
             "optimization",
             "patterns",
             "testing"
-        ]
+        ],
+        "img": "../../img/9781484238660.png"
     },
     {
         "title": "pmp in depth",
@@ -10203,7 +10400,8 @@
         "description": "use this study guide to prepare for the project management professional (pmp) exam administered by the project management institute (pmi).\n\r\nthe revised third edition of the best-selling pmp in depth, updated to the sixth edition of pmbok, has a laser-sharp focus on the exam objectives for project managers and others who want to pass the pmp exam. no prior knowledge of project management is assumed.\n\r\nthe chapters and the sections within each chapter are presented in a logical learning sequence. the concepts and topics, both simple and complex, are clearly explained when they appear for the first time. this facilitates step-wise learning, prevents confusion, and makes this book useful for those who want to get up to speed quickly to pass the pmp exam, even if you are new to the discipline of project management.\n\r\nthis book tells the story of project management in a cohesive, concise, yet comprehensive fashion. unlike most pmp exam books, pmp in depth covers the material in the order in which projects are actually run in the real world. the book is an easy-to-understand guide that is valuable both before and after the exam. \n\r\nunderstand the body of knowledge required to earn the project management professional (pmp) certification; acquire the knowledge needed to enter the field of project management and successfully manage projects in any field.",
         "categories": [
             "project"
-        ]
+        ],
+        "img": "../../img/9781484239094.png"
     },
     {
         "title": "write your way to success",
@@ -10245,7 +10443,8 @@
         "description": "learn how to make an impact in the web world. this short book shows you that the best way to become an expert and a thought leader is to thoroughly research a topic and then publish a book on it. \n\r\nthe great thing about writing a book is that you don't have to risk anything - all you need is a few hours of writing per week and in no time you can have your own book that you can sell, give away at conferences, and prominently feature on your resume. \n\r\nsince author azat mardan published his first book, several high profile tech companies have tried to recruit him and his experience is not an exception! write your way to success covers everything that he has learned through publishing - see how you can do the same!\n\r\ncreate passive income; review the process of a progwriter; examine practical tips about publishing and marketing.",
         "categories": [
             "programming"
-        ]
+        ],
+        "img": "../../img/9781484239698.png"
     },
     {
         "title": "hacking product design",
@@ -10291,7 +10490,8 @@
             "hack",
             "hacking",
             "ide"
-        ]
+        ],
+        "img": "../../img/9781484239841.png"
     },
     {
         "title": "migrating to mariadb",
@@ -10337,7 +10537,8 @@
             "ide",
             "mariadb",
             "security"
-        ]
+        ],
+        "img": "../../img/9781484239964.png"
     },
     {
         "title": "pro microsoft hyper-v 2019",
@@ -10388,7 +10589,8 @@
             "powershell",
             "server",
             "windows"
-        ]
+        ],
+        "img": "../../img/9781484241158.png"
     },
     {
         "title": "navigating hybrid scrum environments",
@@ -10432,7 +10634,8 @@
             "agile",
             "framework",
             "project"
-        ]
+        ],
+        "img": "../../img/9781484241639.png"
     },
     {
         "title": "pro powershell for amazon web services, 2nd edition",
@@ -10485,7 +10688,8 @@
             "network",
             "powershell",
             "windows"
-        ]
+        ],
+        "img": "../../img/9781484248492.png"
     },
     {
         "title": "pivotal certified professional core spring 5 developer exam, 2nd edition",
@@ -10539,7 +10743,8 @@
             "programming",
             "security",
             "spring"
-        ]
+        ],
+        "img": "../../img/9781484251355.png"
     },
     {
         "title": "ethereum for web developers",
@@ -10582,7 +10787,8 @@
             "scala",
             "server",
             "wi-fi"
-        ]
+        ],
+        "img": "../../img/9781484252772.png"
     },
     {
         "title": "using and administering linux: volume 2",
@@ -10635,7 +10841,8 @@
             "programming",
             "regular-expressions",
             "security"
-        ]
+        ],
+        "img": "../../img/9781484254547.png"
     },
     {
         "title": "using and administering linux: volume 3",
@@ -10691,7 +10898,8 @@
             "server",
             "windows",
             "wordpress"
-        ]
+        ],
+        "img": "../../img/9781484254844.png"
     },
     {
         "title": "database design and relational theory, 2nd edition",
@@ -10737,7 +10945,8 @@
             "design",
             "dom",
             "software"
-        ]
+        ],
+        "img": "../../img/9781484255391.png"
     },
     {
         "title": "clean ruby",
@@ -10784,7 +10993,8 @@
         "categories": [
             "ide",
             "ruby"
-        ]
+        ],
+        "img": "../../img/9781484255452.png"
     },
     {
         "title": "turning silicon into gold",
@@ -10833,7 +11043,8 @@
             "big-data",
             "business",
             "facebook"
-        ]
+        ],
+        "img": "../../img/9781484256282.png"
     },
     {
         "title": "practical matlab modeling with simulink",
@@ -10881,7 +11092,8 @@
             "matlab",
             "programming",
             "project"
-        ]
+        ],
+        "img": "../../img/9781484257982.png"
     },
     {
         "title": "advanced asp.net core 3 security",
@@ -10927,7 +11139,8 @@
             "network",
             "security",
             "testing"
-        ]
+        ],
+        "img": "../../img/9781484260166.png"
     },
     {
         "title": "high performance sql server, 2nd edition",
@@ -10979,7 +11192,8 @@
             "server",
             "sql",
             "tuning"
-        ]
+        ],
+        "img": "../../img/9781484264904.png"
     },
     {
         "title": "effective modern c++",
@@ -11037,7 +11251,8 @@
             "media",
             "programming",
             "software"
-        ]
+        ],
+        "img": "../../img/9781491903995.png"
     },
     {
         "title": "you don't know js: types & grammar",
@@ -11093,7 +11308,8 @@
             "java",
             "javascript",
             "media"
-        ]
+        ],
+        "img": "../../img/9781491904190.png"
     },
     {
         "title": "you don't know js: async & performance",
@@ -11149,7 +11365,8 @@
             "java",
             "javascript",
             "media"
-        ]
+        ],
+        "img": "../../img/9781491904220.png"
     },
     {
         "title": "you don't know js: es6 & beyond",
@@ -11207,7 +11424,8 @@
             "javascript",
             "media",
             "programming"
-        ]
+        ],
+        "img": "../../img/9781491904244.png"
     },
     {
         "title": "becoming a better programmer",
@@ -11263,7 +11481,8 @@
             "media",
             "programming",
             "software"
-        ]
+        ],
+        "img": "../../img/9781491905531.png"
     },
     {
         "title": "information architecture, 4th edition",
@@ -11321,7 +11540,8 @@
             "ide",
             "media",
             "mobile"
-        ]
+        ],
+        "img": "../../img/9781491911686.png"
     },
     {
         "title": "architecting hbase applications",
@@ -11377,7 +11597,8 @@
             "api",
             "design",
             "media"
-        ]
+        ],
+        "img": "../../img/9781491915813.png"
     },
     {
         "title": "minecraft modding with forge",
@@ -11429,7 +11650,8 @@
             "java",
             "media",
             "programming"
-        ]
+        ],
+        "img": "../../img/9781491918890.png"
     },
     {
         "title": "you don't know js: up & going",
@@ -11487,7 +11709,8 @@
             "javascript",
             "media",
             "programming"
-        ]
+        ],
+        "img": "../../img/9781491924464.png"
     },
     {
         "title": "graph databases, 2nd edition",
@@ -11539,7 +11762,8 @@
             "graph",
             "media",
             "patterns"
-        ]
+        ],
+        "img": "../../img/9781491930892.png"
     },
     {
         "title": "optimizing java",
@@ -11571,7 +11795,8 @@
             "mac",
             "media",
             "tuning"
-        ]
+        ],
+        "img": "../../img/9781491933329.png"
     },
     {
         "title": "etudes for clojurescript",
@@ -11608,7 +11833,8 @@
             "media",
             "programming",
             "project"
-        ]
+        ],
+        "img": "../../img/9781491934890.png"
     },
     {
         "title": "xenserver administration handbook",
@@ -11666,7 +11892,8 @@
             "design",
             "mac",
             "media"
-        ]
+        ],
+        "img": "../../img/9781491935439.png"
     },
     {
         "title": "laravel: up and running",
@@ -11720,7 +11947,8 @@
             "php",
             "testing",
             "websocket"
-        ]
+        ],
+        "img": "../../img/9781491936085.png"
     },
     {
         "title": "practical modern javascript",
@@ -11781,7 +12009,8 @@
             "node.js",
             "regular-expressions",
             "testing"
-        ]
+        ],
+        "img": "../../img/9781491943533.png"
     },
     {
         "title": "mobile and web messaging",
@@ -11844,7 +12073,8 @@
             "network",
             "objective-c",
             "programming"
-        ]
+        ],
+        "img": "../../img/9781491944806.png"
     },
     {
         "title": "practical statistics for data scientists",
@@ -11897,7 +12127,8 @@
             "media",
             "microsoft-access",
             "programming"
-        ]
+        ],
+        "img": "../../img/9781491952962.png"
     },
     {
         "title": "real-world software development",
@@ -11950,7 +12181,8 @@
             "security",
             "software",
             "testing"
-        ]
+        ],
+        "img": "../../img/9781491967171.png"
     },
     {
         "title": "advanced analytics with spark, 2nd edition",
@@ -12015,7 +12247,8 @@
             "python",
             "scala",
             "security"
-        ]
+        ],
+        "img": "../../img/9781491972953.png"
     },
     {
         "title": "learning perl 6",
@@ -12065,7 +12298,8 @@
             "perl",
             "programming",
             "regular-expressions"
-        ]
+        ],
+        "img": "../../img/9781491977682.png"
     },
     {
         "title": "kubernetes cookbook",
@@ -12123,7 +12357,8 @@
             "framework",
             "ide",
             "media"
-        ]
+        ],
+        "img": "../../img/9781491979686.png"
     },
     {
         "title": "optimizing java",
@@ -12181,7 +12416,8 @@
             "mac",
             "media",
             "tuning"
-        ]
+        ],
+        "img": "../../img/9781492025795.png"
     },
     {
         "title": "fundamentals of data visualization",
@@ -12232,7 +12468,8 @@
             "media",
             "software",
             "visualization"
-        ]
+        ],
+        "img": "../../img/9781492031086.png"
     },
     {
         "title": "java in a nutshell, 7th edition",
@@ -12283,7 +12520,8 @@
             "media",
             "nutshell",
             "programming"
-        ]
+        ],
+        "img": "../../img/9781492037255.png"
     },
     {
         "title": "technology strategy patterns",
@@ -12329,7 +12567,8 @@
             "ide",
             "media",
             "patterns"
-        ]
+        ],
+        "img": "../../img/9781492040873.png"
     },
     {
         "title": "native mobile development",
@@ -12382,7 +12621,8 @@
             "media",
             "mobile",
             "network"
-        ]
+        ],
+        "img": "../../img/9781492052876.png"
     },
     {
         "title": "practical statistics for data scientists, 2nd edition",
@@ -12436,7 +12676,8 @@
             "microsoft-access",
             "programming",
             "python"
-        ]
+        ],
+        "img": "../../img/9781492072942.png"
     },
     {
         "title": "building secure and reliable systems",
@@ -12484,7 +12725,8 @@
             "security",
             "software",
             "testing"
-        ]
+        ],
+        "img": "../../img/9781492083122.png"
     },
     {
         "title": "invent your own computer games with python",
@@ -12526,7 +12768,8 @@
             "graph",
             "programming",
             "python"
-        ]
+        ],
+        "img": "../../img/9781503212305.png"
     },
     {
         "title": "programming for the internet of things",
@@ -12583,7 +12826,8 @@
             "programming",
             "wi-fi",
             "windows"
-        ]
+        ],
+        "img": "../../img/9781509302062.png"
     },
     {
         "title": "introducing microsoft power bi",
@@ -12614,7 +12858,8 @@
             "basic",
             "business",
             "microsoft"
-        ]
+        ],
+        "img": "../../img/9781509302284.png"
     },
     {
         "title": "adaptive code, 2nd edition",
@@ -12669,7 +12914,8 @@
             "microsoft",
             "patterns",
             "testing"
-        ]
+        ],
+        "img": "../../img/9781509302581.png"
     },
     {
         "title": "begin to code with python",
@@ -12729,7 +12975,8 @@
             "project",
             "python",
             "software"
-        ]
+        ],
+        "img": "../../img/9781509304523.png"
     },
     {
         "title": "c++ the core language",
@@ -12779,7 +13026,8 @@
             "programming",
             "software",
             "windows"
-        ]
+        ],
+        "img": "../../img/9781565921160.png"
     },
     {
         "title": "investigating the cyber breach",
@@ -12837,7 +13085,8 @@
             "cisco",
             "ide",
             "network"
-        ]
+        ],
+        "img": "../../img/9781587145025.png"
     },
     {
         "title": "beginning css web development",
@@ -12884,7 +13133,8 @@
         "categories": [
             "css",
             "design"
-        ]
+        ],
+        "img": "../../img/9781590596890.png"
     },
     {
         "title": "pro xml development with java technology",
@@ -12931,7 +13181,8 @@
         "categories": [
             "java",
             "xml"
-        ]
+        ],
+        "img": "../../img/9781590597064.png"
     },
     {
         "title": "pro css and html design patterns",
@@ -12981,7 +13232,8 @@
             "hack",
             "html",
             "patterns"
-        ]
+        ],
+        "img": "../../img/9781590598047.png"
     },
     {
         "title": "pro sharepoint solution development",
@@ -13032,7 +13284,8 @@
             "microsoft-office",
             "sharepoint",
             "visual-studio"
-        ]
+        ],
+        "img": "../../img/9781590598085.png"
     },
     {
         "title": "mac os x leopard",
@@ -13078,7 +13331,8 @@
         "description": "good computer books make assumptions about the reader: what they do and don't know when they pick up the book, and what they want to know when they put it down. for each reader this could be very different; therefore, a book that suits one person may not be the best for another. mac os x leopard: beyond the manual makes some assumptions too, ones that tend to differ from other mac os x books.",
         "categories": [
             "mac"
-        ]
+        ],
+        "img": "../../img/9781590598375.png"
     },
     {
         "title": "linux appliance design",
@@ -13119,7 +13373,8 @@
             "linux",
             "mac",
             "software"
-        ]
+        ],
+        "img": "../../img/9781593271404.png"
     },
     {
         "title": "the book of ruby",
@@ -13171,7 +13426,8 @@
             "basic",
             "programming",
             "ruby"
-        ]
+        ],
+        "img": "../../img/9781593272944.png"
     },
     {
         "title": "python for kids",
@@ -13227,7 +13483,8 @@
             "patterns",
             "programming",
             "python"
-        ]
+        ],
+        "img": "../../img/9781593274078.png"
     },
     {
         "title": "super scratch programming adventure!",
@@ -13271,7 +13528,8 @@
             "games-development",
             "programming",
             "project"
-        ]
+        ],
+        "img": "../../img/9781593274092.png"
     },
     {
         "title": "think like a programmer",
@@ -13325,7 +13583,8 @@
         "description": "the real challenge of programming isn't learning a language's syntax - it's learning to creatively solve problems so you can build something great. in this one-of-a-kind text, author v. anton spraul breaks down the ways that programmers solve problems and teaches you what other introductory books often ignore: how to think like a programmer. each chapter tackles a single programming concept, like classes, pointers, and recursion, and open-ended exercises throughout challenge you to apply your knowledge.",
         "categories": [
             "programming"
-        ]
+        ],
+        "img": "../../img/9781593274245.png"
     },
     {
         "title": "the manga guide to cryptography",
@@ -13377,7 +13636,8 @@
             "asp",
             "ide",
             "security"
-        ]
+        ],
+        "img": "../../img/9781593277420.png"
     },
     {
         "title": "real-world bug hunting",
@@ -13432,7 +13692,8 @@
             "server",
             "software",
             "twitter"
-        ]
+        ],
+        "img": "../../img/9781593278618.png"
     },
     {
         "title": "math adventures with python",
@@ -13466,7 +13727,8 @@
             "programming",
             "python",
             "visualization"
-        ]
+        ],
+        "img": "../../img/9781593278670.png"
     },
     {
         "title": "serious python",
@@ -13522,7 +13784,8 @@
             "scala",
             "software",
             "testing"
-        ]
+        ],
+        "img": "../../img/9781593278786.png"
     },
     {
         "title": "impractical python projects",
@@ -13572,7 +13835,8 @@
             "project",
             "python",
             "security"
-        ]
+        ],
+        "img": "../../img/9781593278908.png"
     },
     {
         "title": "absolute freebsd, 3rd edition",
@@ -13620,7 +13884,8 @@
             "security",
             "server",
             "software"
-        ]
+        ],
+        "img": "../../img/9781593278922.png"
     },
     {
         "title": "the linux command line, 2nd edition",
@@ -13668,7 +13933,8 @@
             "network",
             "regular-expressions",
             "shell"
-        ]
+        ],
+        "img": "../../img/9781593279523.png"
     },
     {
         "title": "beyond the basic stuff with python",
@@ -13720,7 +13986,8 @@
             "project",
             "python",
             "software"
-        ]
+        ],
+        "img": "../../img/9781593279660.png"
     },
     {
         "title": "hadoop in practice",
@@ -13770,7 +14037,8 @@
         "description": "hadoop in practice collects 85 battle-tested examples and presents them in a problem/solution format. it balances conceptual foundations with practical recipes for key problem areas like data ingress and egress, serialization, and lzo compression. you'll explore each technique step by step, learning how to build a specific solution along with the thinking that went into it. as a bonus, the book's examples create a well-structured and understandable codebase you can tweak to meet your own needs.\n\r\nhadoop in practice collects 85 hadoop examples and presents them in a problem / solution format.",
         "categories": [
             "hadoop"
-        ]
+        ],
+        "img": "../../img/9781617290237.png"
     },
     {
         "title": "powershell in depth",
@@ -13822,7 +14090,8 @@
             "powershell",
             "shell",
             "windows"
-        ]
+        ],
+        "img": "../../img/9781617290558.png"
     },
     {
         "title": "aop in .net",
@@ -13880,7 +14149,8 @@
             "c#",
             "programming",
             "project"
-        ]
+        ],
+        "img": "../../img/9781617291142.png"
     },
     {
         "title": "powershell deep dives",
@@ -13935,7 +14205,8 @@
         "categories": [
             "administration",
             "powershell"
-        ]
+        ],
+        "img": "../../img/9781617291319.png"
     },
     {
         "title": "kotlin in action",
@@ -13985,7 +14256,8 @@
             "in-action",
             "java",
             "programming"
-        ]
+        ],
+        "img": "../../img/9781617293290.png"
     },
     {
         "title": "serverless architectures on aws",
@@ -14038,7 +14310,8 @@
             "cloud",
             "mobile",
             "server"
-        ]
+        ],
+        "img": "../../img/9781617293825.png"
     },
     {
         "title": "using the web to build the iot",
@@ -14071,7 +14344,8 @@
             "network",
             "security",
             "visualization"
-        ]
+        ],
+        "img": "../../img/9781617294006.png"
     },
     {
         "title": "the quick python book, 3rd edition",
@@ -14127,7 +14401,8 @@
             "framework",
             "project",
             "python"
-        ]
+        ],
+        "img": "../../img/9781617294037.png"
     },
     {
         "title": "designing scalable javascript applications",
@@ -14163,7 +14438,8 @@
             "project",
             "scala",
             "software"
-        ]
+        ],
+        "img": "../../img/9781617294174.png"
     },
     {
         "title": "exploring data science",
@@ -14200,7 +14476,8 @@
             "network",
             "neural-networks",
             "python"
-        ]
+        ],
+        "img": "../../img/9781617294181.png"
     },
     {
         "title": "reactive data handling",
@@ -14229,7 +14506,8 @@
         "description": "we depend on web applications to be highly-available and to provide us with up-to-the-second data. this shift toward real-time data processing is also a key aspect of the internet of things, which the gartner group predicts by 2020 will include 26 billion actively-connected physical devices sending, receiving, and processing streams. that's a lot of data. the reactive application architecture is an answer to the requirements of high availability and resource efficiency.\n\r\nreactive data handling is a collection of five hand-picked chapters introducing you to building reactive applications capable of handling real-time processing with large data loads. manuel bernhardt, author of reactive web applications , selected these chapters to show you how reactive application architecture solves real-time data demands. you'll start with the high-level architecture of reactive applications and then look at low-level practical aspects. after you read these chapters, you'll understand the benefits of using the reactive application architecture to manage and process vast quantities of data at a fast pace. along the way, you'll get a sample of manning books you may want to add to your library.",
         "categories": [
             "asp"
-        ]
+        ],
+        "img": "../../img/9781617294198.png"
     },
     {
         "title": "cloud native applications",
@@ -14263,7 +14541,8 @@
             "framework",
             "in-action",
             "network"
-        ]
+        ],
+        "img": "../../img/9781617294310.png"
     },
     {
         "title": "understanding api security",
@@ -14296,7 +14575,8 @@
             "programming",
             "security",
             "software"
-        ]
+        ],
+        "img": "../../img/9781617294327.png"
     },
     {
         "title": "web design playground",
@@ -14348,7 +14628,8 @@
             "html",
             "project",
             "server"
-        ]
+        ],
+        "img": "../../img/9781617294402.png"
     },
     {
         "title": "aurelia in action",
@@ -14407,7 +14688,8 @@
             "mobile",
             "project",
             "tuning"
-        ]
+        ],
+        "img": "../../img/9781617294785.png"
     },
     {
         "title": "exploring cloud computing",
@@ -14442,7 +14724,8 @@
             "microsoft",
             "microsoft-azure",
             "server"
-        ]
+        ],
+        "img": "../../img/9781617294877.png"
     },
     {
         "title": "agile development for serverless platforms",
@@ -14480,7 +14763,8 @@
             "patterns",
             "server",
             "software"
-        ]
+        ],
+        "img": "../../img/9781617294983.png"
     },
     {
         "title": "exploring the data jungle",
@@ -14517,7 +14801,8 @@
             "patterns",
             "python",
             "visualization"
-        ]
+        ],
+        "img": "../../img/9781617295065.png"
     },
     {
         "title": "exploring microservices",
@@ -14549,7 +14834,8 @@
             "docker",
             "scala",
             "software"
-        ]
+        ],
+        "img": "../../img/9781617295072.png"
     },
     {
         "title": "exploring data with python",
@@ -14581,7 +14867,8 @@
             "numpy",
             "python",
             "software"
-        ]
+        ],
+        "img": "../../img/9781617296048.png"
     },
     {
         "title": "seriously good software",
@@ -14627,7 +14914,8 @@
             "optimization",
             "project",
             "software"
-        ]
+        ],
+        "img": "../../img/9781617296291.png"
     },
     {
         "title": "release it! 2nd edition",
@@ -14677,7 +14965,8 @@
             "flash",
             "project",
             "software"
-        ]
+        ],
+        "img": "../../img/9781680502398.png"
     },
     {
         "title": "adopting elixir",
@@ -14721,7 +15010,8 @@
             "business",
             "design",
             "programming"
-        ]
+        ],
+        "img": "../../img/9781680502527.png"
     },
     {
         "title": "explore software defined radio",
@@ -14768,7 +15058,8 @@
             "software",
             "tuning",
             "windows"
-        ]
+        ],
+        "img": "../../img/9781680507591.png"
     },
     {
         "title": "high-tech lego projects",
@@ -14817,7 +15108,8 @@
             "project",
             "security",
             "software"
-        ]
+        ],
+        "img": "../../img/9781718500259.png"
     },
     {
         "title": "python one-liners",
@@ -14868,7 +15160,8 @@
             "numpy",
             "python",
             "regular-expressions"
-        ]
+        ],
+        "img": "../../img/9781718500501.png"
     },
     {
         "title": "real-world python",
@@ -14920,7 +15213,8 @@
             "project",
             "python",
             "visualization"
-        ]
+        ],
+        "img": "../../img/9781718500624.png"
     },
     {
         "title": "how computers really work",
@@ -14972,7 +15266,8 @@
             "project",
             "server",
             "software"
-        ]
+        ],
+        "img": "../../img/9781718500662.png"
     },
     {
         "title": "learning selenium testing tools with python",
@@ -15020,7 +15315,8 @@
             "project",
             "python",
             "testing"
-        ]
+        ],
+        "img": "../../img/9781783983506.png"
     },
     {
         "title": "ember.js web development with ember cli",
@@ -15078,7 +15374,8 @@
             "framework",
             "java",
             "javascript"
-        ]
+        ],
+        "img": "../../img/9781784395841.png"
     },
     {
         "title": "zabbix network monitoring essentials",
@@ -15128,7 +15425,8 @@
             "design",
             "graph",
             "network"
-        ]
+        ],
+        "img": "../../img/9781784399764.png"
     },
     {
         "title": "arcgis blueprints",
@@ -15178,7 +15476,8 @@
             "python",
             "server",
             "xml"
-        ]
+        ],
+        "img": "../../img/9781785286223.png"
     },
     {
         "title": "application development with swift",
@@ -15238,7 +15537,8 @@
             "programming",
             "project",
             "security"
-        ]
+        ],
+        "img": "../../img/9781785288173.png"
     },
     {
         "title": "python web scraping cookbook",
@@ -15287,7 +15587,8 @@
             "python",
             "software",
             "wi-fi"
-        ]
+        ],
+        "img": "../../img/9781787285217.png"
     },
     {
         "title": "julia programming projects",
@@ -15339,7 +15640,8 @@
             "python",
             "testing",
             "visualization"
-        ]
+        ],
+        "img": "../../img/9781788292740.png"
     },
     {
         "title": "python interviews",
@@ -15392,7 +15694,8 @@
             "project",
             "python",
             "sql"
-        ]
+        ],
+        "img": "../../img/9781788399081.png"
     },
     {
         "title": "101 ux principles",
@@ -15436,7 +15739,8 @@
             "design",
             "microsoft-access",
             "software"
-        ]
+        ],
+        "img": "../../img/9781788837361.png"
     },
     {
         "title": "continuous delivery and devops - a quickstart guide, 3rd edition",
@@ -15481,7 +15785,8 @@
             "business",
             "media",
             "software"
-        ]
+        ],
+        "img": "../../img/9781788995474.png"
     },
     {
         "title": "r web scraping quick start guide",
@@ -15519,7 +15824,8 @@
             "framework",
             "postgresql",
             "programming"
-        ]
+        ],
+        "img": "../../img/9781789138733.png"
     },
     {
         "title": "react and react native, 2nd edition",
@@ -15566,7 +15872,8 @@
             "mobile",
             "node",
             "node.js"
-        ]
+        ],
+        "img": "../../img/9781789346794.png"
     },
     {
         "title": "hands-on gpu-accelerated computer vision with opencv and cuda",
@@ -15614,7 +15921,8 @@
             "asp",
             "programming",
             "python"
-        ]
+        ],
+        "img": "../../img/9781789348293.png"
     },
     {
         "title": "python machine learning, 3rd edition",
@@ -15665,7 +15973,8 @@
             "python",
             "tensorflow",
             "visualization"
-        ]
+        ],
+        "img": "../../img/9781789955750.png"
     },
     {
         "title": "c# 9 and .net 5 - modern cross-platform development, 5th edition",
@@ -15720,7 +16029,8 @@
             "mobile",
             "programming",
             "visual-studio"
-        ]
+        ],
+        "img": "../../img/9781800568105.png"
     },
     {
         "title": "responsive web design with html5 and css, 3rd edition",
@@ -15773,7 +16083,8 @@
             "html5",
             "media",
             "microsoft-access"
-        ]
+        ],
+        "img": "../../img/9781839211560.png"
     },
     {
         "title": "zabbix 1.8 network monitoring",
@@ -15829,7 +16140,8 @@
             "phone-development",
             "server",
             "windows"
-        ]
+        ],
+        "img": "../../img/9781847197689.png"
     },
     {
         "title": "latex: beginner's guide",
@@ -15882,7 +16194,8 @@
             "business",
             "microsoft-word",
             "software"
-        ]
+        ],
+        "img": "../../img/9781847199867.png"
     },
     {
         "title": "information fusion in signal and image processing",
@@ -15933,7 +16246,9 @@
             "ebook (pdf)"
         ],
         "isbn10": "1848210191",
-        "description": "the area of information fusion has grown considerably during the last few years, leading to a rapid and impressive evolution. in such fast-moving times, it is important to take stock of the changes that have occurred. as such, this books offers an overview of the general principles and specificities of information fusion in signal and image processing, as well as covering the main numerical methods (probabilistic approaches, fuzzy sets and possibility theory and belief functions)."
+        "description": "the area of information fusion has grown considerably during the last few years, leading to a rapid and impressive evolution. in such fast-moving times, it is important to take stock of the changes that have occurred. as such, this books offers an overview of the general principles and specificities of information fusion in signal and image processing, as well as covering the main numerical methods (probabilistic approaches, fuzzy sets and possibility theory and belief functions).",
+        "categories": [],
+        "img": "../../img/9781848210196.png"
     },
     {
         "title": "advanced backend optimization",
@@ -15988,7 +16303,8 @@
         "categories": [
             "optimization",
             "software"
-        ]
+        ],
+        "img": "../../img/9781848215382.png"
     },
     {
         "title": "drupal 7 module development",
@@ -16041,7 +16357,8 @@
             "asp",
             "drupal",
             "framework"
-        ]
+        ],
+        "img": "../../img/9781849511162.png"
     },
     {
         "title": "freeswitch cookbook",
@@ -16093,7 +16410,8 @@
             "design",
             "phone-development",
             "server"
-        ]
+        ],
+        "img": "../../img/9781849515405.png"
     },
     {
         "title": "ejb 3.0 database persistence with oracle fusion middleware 11g",
@@ -16145,7 +16463,8 @@
             "java",
             "oracle",
             "server"
-        ]
+        ],
+        "img": "../../img/9781849681568.png"
     },
     {
         "title": "unity 2d game development",
@@ -16198,7 +16517,8 @@
             "basic",
             "games-development",
             "unity"
-        ]
+        ],
+        "img": "../../img/9781849692564.png"
     },
     {
         "title": "unity 4.x game ai programming",
@@ -16255,7 +16575,8 @@
             "programming",
             "project",
             "unity"
-        ]
+        ],
+        "img": "../../img/9781849693400.png"
     },
     {
         "title": "yammer starter",
@@ -16305,7 +16626,8 @@
         "description": "share what you're doing, post announcements, congratulate people, link to documents or interesting websites, make files available, ask or answer questions, and put up photos, polls, events, and more. learn the ways to create a dedicated team workspace for any project, department, or topic and collaborate on documents in real-time with multiple authors, store large files, manage versions, and make content available across the company. get up to speed using yammer with the author of over 100 books who knows how to give you all the information needed in an easy and entertaining manner.",
         "categories": [
             "project"
-        ]
+        ],
+        "img": "../../img/9781849694049.png"
     },
     {
         "title": "dreamweaver cs6 mobile and web development with html5, css3, and jquery mobile",
@@ -16363,7 +16685,8 @@
             "microsoft-access",
             "mobile",
             "software"
-        ]
+        ],
+        "img": "../../img/9781849694742.png"
     },
     {
         "title": "ios and os x network programming cookbook",
@@ -16420,7 +16743,8 @@
             "network",
             "programming",
             "server"
-        ]
+        ],
+        "img": "../../img/9781849698085.png"
     },
     {
         "title": "ant in action, 2nd edition",
@@ -16473,7 +16797,8 @@
             "java",
             "project",
             "testing"
-        ]
+        ],
+        "img": "../../img/9781932394801.png"
     },
     {
         "title": "asp.net mvc in action",
@@ -16526,7 +16851,8 @@
             "in-action",
             "mvc",
             "project"
-        ]
+        ],
+        "img": "../../img/9781933988627.png"
     },
     {
         "title": "the druby book",
@@ -16575,7 +16901,8 @@
             "programming",
             "ruby",
             "security"
-        ]
+        ],
+        "img": "../../img/9781934356937.png"
     },
     {
         "title": "rails 3 in action",
@@ -16631,7 +16958,8 @@
             "programming",
             "rails",
             "ruby"
-        ]
+        ],
+        "img": "../../img/9781935182276.png"
     },
     {
         "title": "scala in depth",
@@ -16684,7 +17012,8 @@
             "java",
             "programming",
             "scala"
-        ]
+        ],
+        "img": "../../img/9781935182702.png"
     },
     {
         "title": "html5 and css3, 2nd edition",
@@ -16739,7 +17068,8 @@
             "html",
             "html5",
             "project"
-        ]
+        ],
+        "img": "../../img/9781937785598.png"
     },
     {
         "title": "icloud for developers",
@@ -16778,6 +17108,7 @@
         "categories": [
             "ios",
             "media"
-        ]
+        ],
+        "img": "../../img/9781937785604.png"
     }
 ]

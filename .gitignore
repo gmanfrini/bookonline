@@ -62,12 +62,28 @@ public
 # Mac files
 .DS_Store
 
-# Miei script in python
+# Miei files
 *.py
 *.pyc
+*.zip
 
 # Mie cartelle di servizio
 htmlgrab
+testJson
+
+# Parti da non caricare per il momento
+src/components
+
+src/pages/404.js
+src/pages/about.js
+src/pages/books.js
+src/pages/cat.js
+src/pages/contact.js
+
+src/templates
+
+gatsby-node.js
+
 
 # Yarn
 yarn-error.log
